@@ -1,0 +1,9 @@
+*{
+  back-ground:linear-gradient(45deg,#7223f2,#7223f2);
+  margin:0px;
+  padding:0px;
+}
+h1{
+  font-size:30px;
+  color:black;
+}
